@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Register</title>
+<link rel="stylesheet" href="css/Register.css">
+</head>
+<body>
+	<form action="SellerRegister.jsp" method="post">
+		<div class="container">
+			<div class="registerbox">
+				<h2>Seller Register</h2>
+				<input type="text" name="name" placeholder="Enter Name" required>
+				<input type="text"  name="phno" placeholder="Enter Phone Number" onkeypress="return event.charCode>= 48 && event.charCode<= 57" required>
+				<input type="text" name="address" placeholder="Enter Address" required>
+				<input type="text" name="uid" placeholder="Enter Seller ID" required>
+				<input type="password" name="pass1" placeholder="Enter Password" required>
+				<input type="password" name="pass2" placeholder="Retype Password" required>
+				<h3>Seller ID Already Exists</h3>
+				<input type="submit" value="Submit" >
+			</div>
+		</div>
+	</form>
+</body>
+</html>

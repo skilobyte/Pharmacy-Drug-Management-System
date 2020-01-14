@@ -1,0 +1,136 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family:sans-serif;
+	background-image: url("../images/bg.png");
+	background-color: #78e4ff;
+	background-repeat: no-repeat;
+}
+
+.container
+{
+	width: 50%;
+	display: flex;
+    align-items: center;
+	height: 720px;
+}
+
+.loginbox{
+	width: 320px;
+	height: auto;
+	box-sizing: border-box;
+	padding: 40px 30px;
+	background: rgba(255,250,250,0.85);
+	margin:0 auto;
+}
+
+h2{
+	position:relative;
+	margin :0 auto;
+	color: #2f4f4f;
+	font-size: 22px;
+	padding: 0 0 20px;
+}
+
+h3{
+	position:relative;
+	margin :0 auto;
+	color: #ff2929;
+	font-size: 18px;
+	padding: 0 0 20px;
+}
+
+.customselect select{
+	width: 100%;
+	height: 100%;
+	background: none;
+	border: none;
+	-webkit-appearance: none;
+	cusrsor: pointer;
+	text-indent: 5px;
+}
+
+.customselect select:focus{
+	outline: none;
+}
+
+.customselect option{
+	font-size: 16px;
+}
+	
+.customselect .select{
+	position: relative;
+	background: #fff;
+	border: 1px solid #1d67b1;
+	height:  20px;
+	cursor: pointer;
+}
+
+.customselect .select:before{
+	content: '';
+	background: #1d67b1;
+	position: absolute;
+	top: -1px;
+	bottom: 0;
+	right:-1px;
+	width: 40px;
+	pointer-events: none;
+}
+
+.customselect .select:after{
+	content: '';
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-width: 10px 7px 0;
+	border-color: #fff transparent transparent transparent;
+	position: absolute;
+	top: 50%;
+	right: 11px;
+	transform: translateY(-50%);
+	pointer-events: none;
+}
+
+.loginbox input{
+	width:100%;
+	margin-bottom:30px;
+}
+
+.loginbox input[type="text"],.loginbox input[type="password"]
+{
+	position:relative;
+	border: none;
+	padding-top: 20px;
+	border-bottom: 1px solid #808080;
+	outline: none;
+	color: black;
+	height: 30px;
+	background: transparent;
+	font-size: 18px;	
+}
+
+::placeholder
+{
+	font-size:16px;
+	color: #808080;
+}
+
+.loginbox input[type="submit"]
+{
+	margin: 0 25px;
+	border: none;
+	outline: none;
+	border-radius: 20px;
+	color: #fff;
+	background: #090adc;
+	height: 40px;
+	width: 80%;
+	font-size:18px;
+	cursor: pointer;
+}
+
+.loginbox input[type="submit"]:hover
+{
+	background: #04e4e4;
+	color: #262626;
+}
