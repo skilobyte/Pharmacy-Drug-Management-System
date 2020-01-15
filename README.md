@@ -49,3 +49,6 @@ License
 
 ### Vendor Restock Page
 ![](Screenshots/Restock.png)
+
+
+[![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/Sathvik149/Pharmacy-Drug-Management-System/blob/master/LICENSE)
