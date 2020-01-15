@@ -18,32 +18,32 @@ DBMS Mini Project under 2017 VTU CBCS for 5th semester
 * Import the Pharamcy-Drug-Management-System to Eclipse IDE
 
 ## ScreenShots
-Index Page
+#### Index Page
 ![](Screenshots/Index.png)
 
 
-Login Page
+#### Login Page
 ![](Screenshots/Login.png)
 
 
-Register Page
+#### Register Page
 ![](Screenshots/SellerRegister.png)
 
 
-Customer Homepage
+#### Customer Homepage
 ![](Screenshots/CustomerHomepage.png)
 
 
-Vendor Homepage
+#### Vendor Homepage *
 ![](Screenshots/VendorHomepage.png)
 
 
-Buy Page
+#### Buy Page
 ![](Screenshots/Buy%201.png)
 
 
 ![](Screenshots/Buy%202.png)
 
 
-Vendor Restock Page
+#### Vendor Restock Page
 ![](Screenshots/Restock.png)
