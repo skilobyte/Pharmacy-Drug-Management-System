@@ -34,7 +34,7 @@ DBMS Mini Project under 2017 VTU CBCS for 5th semester
 ![](Screenshots/CustomerHomepage.png)
 
 
-### Vendor Homepage *
+### Vendor Homepage
 ![](Screenshots/VendorHomepage.png)
 
 
