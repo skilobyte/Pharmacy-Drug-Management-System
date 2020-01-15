@@ -6,7 +6,7 @@ DBMS Mini Project under 2017 VTU CBCS for 5th semester
 * Donwload MySQL Community Server.
   [MySQL Download](https://dev.mysql.com/downloads/windows/installer/8.0.html)
 
-* Execute all the commands listed in the SQL.txt file
+* Execute all the commands listed in the SQL.txt file ![](SQL.txt)
 
 ### Front End
 * Download and Install Eclipse IDE [Download Link](https://www.eclipse.org/downloads/packages/release/2019-12/r/eclipse-ide-enterprise-java-developers)
