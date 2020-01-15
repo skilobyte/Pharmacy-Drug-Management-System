@@ -49,4 +49,4 @@ DBMS Mini Project under 2017 VTU CBCS for 5th semester
 ![](Screenshots/Restock.png)
 
 
-[![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/Sathvik149/Pharmacy-Drug-Management-System/blob/master/LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/Sathvik149/Pharmacy-Drug-Management-System/blob/master/LICENSE)
