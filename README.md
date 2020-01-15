@@ -45,11 +45,11 @@ DBMS Mini Project under 2017 VTU CBCS for 5th semester
 ![](Screenshots/Buy%202.png)
 
 
-### * Vendor Restock Page
+### Vendor Restock Page
 ![](Screenshots/Restock.png)
 
 
-## * License
+## License
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/Sathvik149/Pharmacy-Drug-Management-System/blob/master/LICENSE)
 
 ## Image Links
