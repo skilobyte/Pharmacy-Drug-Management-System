@@ -6,7 +6,7 @@ DBMS Mini Project under 2017 VTU CBCS for 5th semester
 * Donwload MySQL Community Server.
   [MySQL Download](https://dev.mysql.com/downloads/windows/installer/8.0.html)
 
-* Execute all the commands listed in the SQL.txt file ![](SQL.txt)
+* Execute all the commands listed in the SQL.txt file ![](https://github.com/Sathvik149/Pharmacy-Drug-Management-System/blob/master/SQL.txt)
 
 ### Front End
 * Download and Install Eclipse IDE [Download Link](https://www.eclipse.org/downloads/packages/release/2019-12/r/eclipse-ide-enterprise-java-developers)
@@ -15,7 +15,7 @@ DBMS Mini Project under 2017 VTU CBCS for 5th semester
 
 * Download and Install Apache Tomcat 8.5 or Above [Download Link](https://tomcat.apache.org/download-80.cgi)
 
-* Import the Pharamcy-Drug-Management-System to Eclipse IDE
+* Import the Pharamcy-Drug-Management-System to Eclipse IDE 
 
 ## ScreenShots
 ### Index Page
@@ -45,11 +45,11 @@ DBMS Mini Project under 2017 VTU CBCS for 5th semester
 ![](Screenshots/Buy%202.png)
 
 
-### Vendor Restock Page
+### * Vendor Restock Page
 ![](Screenshots/Restock.png)
 
 
-## License
+## * License
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/Sathvik149/Pharmacy-Drug-Management-System/blob/master/LICENSE)
 
 ## Image Links
