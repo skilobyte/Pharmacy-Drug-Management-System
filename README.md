@@ -49,4 +49,16 @@ DBMS Mini Project under 2017 VTU CBCS for 5th semester
 ![](Screenshots/Restock.png)
 
 
+## License
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/Sathvik149/Pharmacy-Drug-Management-System/blob/master/LICENSE)
+
+## Image Links
+
+* Homepage Pharmacy Image
+  https://www.vectorstock.com/royalty-free-vector/pharmacy-concept-vector-6769260
+
+* Pills Image
+  [URL=https://www.clipart.email/download/346512.html][IMG]https://cdn.clipart.email/4c5fecb5713401f89cad85ce94d1644a_vitamin-bottle-clipart-clipartxtras_270-299.png[/IMG][/URL]
+  
+* Vendor Homepage Image
+  https://www.canstockphoto.com/pharmacy-icon-cartoon-style-61106165.html
