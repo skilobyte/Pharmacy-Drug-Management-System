@@ -26,7 +26,7 @@ Import the Pharamcy-Drug-Management-System to Eclipse IDE
 
 ![](Screenshots/CustomerHomepage.png)
 
-![](Screenshots/SellerHomepage.png)
+![](Screenshots/VendorHomepage.png)
 
 ![](Screenshots/Buy%201.png)
 
