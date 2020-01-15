@@ -17,3 +17,5 @@ Download and Install Apache Tomcat 8.5 or Above [Download Link](https://tomcat.a
 
 Import the Pharamcy-Drug-Management-System to Eclipse IDE
 
+##ScreenShots
+![](Screenshots/Index.png)
