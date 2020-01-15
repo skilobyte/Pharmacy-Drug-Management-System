@@ -1,3 +1,5 @@
+*Table Creation*
+
 CREATE SCHEMA drugdatabase;
 
 CREATE TABLE customer (
@@ -29,7 +31,7 @@ CREATE TABLE product (
   price int DEFAULT NULL,
   PRIMARY KEY (pid),
   UNIQUE KEY pname (pname)
-)
+);
 
 CREATE TABLE inventory (
   pid varchar(15) NOT NULL,
@@ -58,8 +60,8 @@ CREATE TABLE orders (
 
 ALTER TABLE orders AUTO_INCREMENT=1000;
 
--------------------------------------------------------------------------------------------------------------------------------------------
-Triggers
+----------------------------------------------------------------------------------------------------------------------------------------
+*Triggers*
 
 
 DELIMITER //
@@ -99,8 +101,8 @@ END//
 DELIMITER ;
 
 
--------------------------------------------------------------------------------------------------------------------------------------------
-Stored Procedures
+----------------------------------------------------------------------------------------------------------------------------------------
+*Stored Procedures*
 
 
 DELIMITER //
@@ -115,9 +117,11 @@ DELIMITER ;
 
 
 DELIMITER //
+
 CREATE PROCEDURE getorders
 (IN param1 VARCHAR(20))
 BEGIN
    SELECT * FROM orders WHERE uid=param1;
 END //
+
 DELIMITER ;
