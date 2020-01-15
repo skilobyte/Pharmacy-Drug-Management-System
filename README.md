@@ -9,8 +9,11 @@ Donwload MySQL Community Server.
 Execute all the commands listed in the SQL.txt file
 
 ### Front End
-Download and Install Eclipse IDE [Download Link](https://www.eclipse.org/downloads/packages/release/2019-12/r/eclipse-ide-enterprise-java-developers)
+Download and Install Eclipse IDE  
+[Download Link](https://www.eclipse.org/downloads/packages/release/2019-12/r/eclipse-ide-enterprise-java-developers)
+
 Download and Install JDK 1.8 or Above [Download Link](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
+
 Download and Install Apache Tomcat 8.5 or Above [Download Link](https://tomcat.apache.org/download-80.cgi)
 
 Import the Pharamcy-Drug-Management-System to Eclipse IDE
