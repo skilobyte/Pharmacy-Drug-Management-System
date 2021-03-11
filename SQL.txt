@@ -2,6 +2,8 @@
 
 CREATE SCHEMA drugdatabase;
 
+USE drugdatabase;
+
 CREATE TABLE customer (
   uid varchar(20) NOT NULL,
   pass varchar(20) DEFAULT NULL,
